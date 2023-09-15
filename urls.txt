@@ -1,2 +1,2 @@
 http://backend.course#DinnasiK
-http://backend.course?name="Dmytro"&github_name=DinnasiK&group="Ð¤ÐÐ-24Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 2"
+http://backend.course?name=%22Dmytro%22&github_name=DinnasiK&group=%22%D0%A4%D0%95%D0%86-24%D1%81%C2%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%202%22
